@@ -1,6 +1,3 @@
-//ICSI 333. System Fundamentals, Spring 2022
-//TA Sourav Dutta
-//Joseph LaBianca, 001442880
 //Arithmetic Expression/Number Conversion
 #include <string.h>
 #include <stdio.h>
